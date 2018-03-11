@@ -1,0 +1,1 @@
+TODO list application fot Tizen wearable devices

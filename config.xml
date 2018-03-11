@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://github.com/nvsnkv/nscrolls" version="0.0.0" viewmodes="maximized">
+    <tizen:application id="NPFNsAHB4J.nscrolls" package="NPFNsAHB4J" required_version="2.3.2"/>
+    <author href="https://github.com/nvsnkv" email="nvsnkv@live.com">Nikita Senkov</author>
+    <content src="index.html"/>
+    <description>TODO list application fot Tizen wearable devices</description>
+    <feature name="http://tizen.org/feature/screen.size.normal"/>
+    <icon src="icon.png"/>
+    <license href="https://opensource.org/licenses/MIT">MIT</license>
+    <name>nscrolls</name>
+    <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
+    <tizen:profile name="wearable"/>
+    <tizen:setting hwkey-event="enable"/>
+</widget>
